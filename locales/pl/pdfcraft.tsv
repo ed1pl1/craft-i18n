@@ -3927,7 +3927,7 @@ document scrollbar width	Wide	Szeroki
 	Extend the docked toolbar along the entire side. Choose a side above to enable.	Rozciągnij zadokowany pasek narzędzi wzdłuż całej krawędzi. Aby to włączyć, wybierz krawędź powyżej.
 	Filters	Filtry
 	Flags	Flagi
-	Float	Swobodnie
+	Float	Pływający
 	Freehand-Highlight	Odręczne podświetlenie
 	Full screen fills the screen with one page at a time	Tryb pełnoekranowy wypełnia ekran jedną stroną naraz
 	Full-side strip	Pasek na całą krawędź
@@ -4024,7 +4024,7 @@ document scrollbar width	Wide	Szeroki
 	Vertices	Wierzchołki
 	bold	pogrubienie
 	by	×
-	guides	prowadnice
+	guides	linie pomocnicze
 	italic	kursywa
 	locked field	zablokowane pole
 	the range selects more than {limit} pages	zakres obejmuje więcej niż {limit} stron
